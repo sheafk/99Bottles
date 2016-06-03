@@ -1,5 +1,5 @@
 # 99Bottles
-My Objective-C solution to the following problem on rosettacode.org
+This is my Objective-C solution to the following problem on rosettacode.org.
 
 99 Bottles of Beer
 Task99 Bottles of Beer
