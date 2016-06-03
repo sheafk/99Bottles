@@ -1,0 +1,12 @@
+for (NSUInteger i = 99; i > 0; i --) {
+        
+        NSUInteger n = i;
+        NSUInteger m = i - 1;
+        
+        if (i == 1) {
+            NSLog(@"%lu bottle of beer on the wall \n %lu bottle of beer \n Take one down, pass it around \n %lu bottles of beer on the wall", n, n, m);
+        }
+        else {
+        NSLog(@"%lu bottles of beer on the wall \n %lu bottles of beer \n Take one down, pass it around \n %lu bottles of beer on the wall", n, n, m);
+        }
+    }
